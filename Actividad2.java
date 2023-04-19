@@ -13,6 +13,7 @@ public class Prueba {
 		
 		for (int i = 1; i < 10; i++) {
 			
+			// Muestra la tabla del número que indiquemos
 			int resultado = entero * i;
 			System.out.println(entero + " x " + i " = " + resultado);
 			
