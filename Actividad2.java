@@ -11,6 +11,7 @@ public class Prueba {
 		System.out.print("Escribe un número: ");
 		int entero = sc.nextInt();
 		
+		// Bucle for
 		for (int i = 1; i < 10; i++) {
 			
 			// Muestra la tabla del número que indiquemos
